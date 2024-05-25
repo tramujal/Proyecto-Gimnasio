@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\clases\\tipomaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\clases\\tipomaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\clases\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\clases\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\clases\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\clases\\maquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\clases\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\clases\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\persistencia\\psocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\persistencia\\psocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\persistencia\\ptipomaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\persistencia\\ptipomaq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\persistencia\\pmaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\persistencia\\pmaquina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\persistencia\\plocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\persistencia\\plocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\persistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\persistencia\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\socios\\listsocios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\socios\\listsocios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\socios\\addsocio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\socios\\addsocio.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\socios\\addsocio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\socios\\addsocio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\local\\addlocal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\local\\addlocal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\local\\addlocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\local\\addlocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\local\\listlocal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\local\\listlocal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\local\\listlocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\local\\listlocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\local\\updatelocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\local\\updatelocal.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\maquinas\\addmaquina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\maquinas\\addmaquina.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\maquinas\\addmaquina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\maquinas\\addmaquina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\maquinas\\listmaquinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\maquinas\\listmaquinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\maquinas\\listmaquinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\maquinas\\listmaquinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|c:\\users\\jhona\\desktop\\ctc\\programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBCE13D-110E-4C79-9271-E9B70D3CA082}|herenciayrelacionesgui\\Gimnasio24.csproj|solutionrelative:herenciayrelacionesgui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PMaquina.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PMaquina.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Persistencia\\PMaquina.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PMaquina.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Persistencia\\PMaquina.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwH0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:06:37.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maquina.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Maquina.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Clases\\Maquina.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Maquina.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Clases\\Maquina.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:35:49.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:17:29.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PSocio.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PSocio.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Persistencia\\PSocio.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PSocio.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Persistencia\\PSocio.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:28:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\Conexion.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Persistencia\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\Conexion.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Persistencia\\Conexion.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:27:24.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoMaq.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\TipoMaq.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Clases\\TipoMaq.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\TipoMaq.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Clases\\TipoMaq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:27:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Socio.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Clases\\Socio.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Socio.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Clases\\Socio.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:27:07.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Local.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Clases\\Local.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Clases\\Local.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Clases\\Local.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:26:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PLocal.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PLocal.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Persistencia\\PLocal.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PLocal.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Persistencia\\PLocal.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:31:47.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PTipoMaq.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PTipoMaq.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Persistencia\\PTipoMaq.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Persistencia\\PTipoMaq.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Persistencia\\PTipoMaq.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:45:24.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddSocio.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:21:49.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListSocios.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\ListSocios.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Socios\\ListSocios.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\ListSocios.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Socios\\ListSocios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:18:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddSocio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Socios\\AddSocio.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:58:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddLocal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:41:32.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddLocal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Local\\AddLocal.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:41:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListLocal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:42:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListLocal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Local\\ListLocal.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:42:45.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateLocal.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\UpdateLocal.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Local\\UpdateLocal.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Local\\UpdateLocal.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Local\\UpdateLocal.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:42:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddMaquina.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:16:50.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddMaquina.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Maquinas\\AddMaquina.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:15:20.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListMaquinas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T19:33:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ListMaquinas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Maquinas\\ListMaquinas.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:24:58.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "herenciayrelacionesgui\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T18:54:55.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Program.cs",
+              "RelativeDocumentMoniker": "herenciayrelacionesgui\\Program.cs",
+              "ToolTip": "C:\\Users\\Jhona\\Desktop\\CTC\\Programacion 3\\herenciayrelacionesgui\\herenciayrelacionesgui\\herenciayrelacionesgui\\Program.cs",
+              "RelativeToolTip": "herenciayrelacionesgui\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:32:18.145Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
